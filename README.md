@@ -1,7 +1,7 @@
 # PacMano_USP
 #### [English version here!](google.com)
 
-<p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de programação orientada a objetos e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>
+<p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de <b>programação orientada a objetos</b> e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>
 
 <p>Os Seguintes tópicos foram contruidos no programa PacMano:</p>
  <ul style="list-style-type:disc;">
