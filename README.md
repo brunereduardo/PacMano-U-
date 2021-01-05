@@ -1,11 +1,11 @@
 # PacMano_USP
-#### [English version here!](https://github.com/brunereduardo/Complex_Networks_USP/blob/main/English/README.md)
+#### [English version here!](google.com)
 
-<p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos da teoria das redes complexas com a apresentação das ferramentas fundamentais para a representação, modelagem e caracterização e classificação de redes complexas. Os conceitos são aplicados na análise da Internet, da World Wide Web, da linguagem, da sociedade, de cadeias alimentares, das interações celulares e de malhas rodoviárias.</p>
+<p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de programação orientada a objetos e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>
 
-<p>Para mais informações, basta procurar pelo arquivo .PDF na pasta de cada projeto e a seguir temos os seguintes pontos estudados: </p>
+<p>Os Seguintes tópicos foram contruidos no programa PACMANO:</p>
  <ul style="list-style-type:disc;">
-  <li>Medidas para caracterização topológica de redes complexas: grau, coeficiente de aglomeração, número de ciclos, comprimento dos menores caminhos, motivos, medidas de centralidade, medidas espectrais, medidas hierárquicas, medidas fractais, estrutura de comunidades. </li>
+  <li>O jogo deve conter três fases distintas, onde cada uma é caracterizada por um cenário diferente. Você é livre para definir o cenário como quiser, porém a grade da tela deve conter no mínimo 15 x 15 elementos no total.</li>
   <li>Modelos e Algoritmos de Geração de Redes Complexas: grafos aleatórios, modelo small world, redes livre de escala, redes com estrutura hierárquica, modelo de configuração </li>
   <li>Redes ponderadas</li>
   <li>Redes espaciais</li>
