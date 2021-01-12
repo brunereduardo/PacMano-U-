@@ -1,6 +1,7 @@
 # PacMano_USP
 #### [English version here!](google.com)
 
+## Descrição do Projeto
 <p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de <b>programação orientada a objetos</b> e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>
 
 <p>Os Seguintes tópicos foram contruidos no programa PacMano:</p>
@@ -16,22 +17,55 @@
  <li>Implementamos uma funcionalidade que permita que o jogo seja salvo a qualquer momento, na situação em que estiver, para que seja carregado posteriormente (Serialização). A funcionalidade de salvar pode ser chamada através de uma combinação de teclas, como por exemplo "Ctrl+s"(Key Listener Event). A funcionalidade de carregar um jogo salvo anteriormente só poderá estar disponível antes de iniciar um jogo. Pode ser também através de uma combinação de teclas ou um botão na interface gráfica.</li>
 </ul>  
 
-## Características dos Elementos do Jogo
+<p align="center">
+<a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
+<a href="#Pré-requisitos">Pré-requisitos</a> •	
+<a href="#License">License</a> • 
+<a href="#Author">Author</a>
+</p>
 
-### Pacman
+<h4 align="center"> 
+	🚧  Construído durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
+</h4>
 
-### Fantasmas
-
-### Bolinhas comuns (Pac-Dots)
-
-### Bolinhas de poder (Power Pellets)
-
-### Frutas
-
-### Objetos do cenário
+### Pré-requisitos
 
 ## Instruções para Compilar o Codigo-Fonte
  Para compilar os programas é apenas necessário ter acesso a um Jupyter Notebook, ou Google Colab, e rodar as células para obter os resultados. Os dados para a maioria das resoluções se encontram na pasta Data de cada projeto. Para processamentos mais ágeis, um dica seria usar GPUS em vez da CPU.
+
+### Rodando a Aplicação 🎲
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunereduardo/NextLevelWeek_2
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd NextLevelWeek_2
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor iniciará na porta:5500 - acesse <http://localhost:5500>
+```
+### 🚀 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+### License
+
+<p>MIT</p>
+
+### Author
+Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽
+
 
 <p><b>O projeto pertence aos seguintes desenvolvedores:</b></p>
 <p>Afonso Celso Penze Nunes da Cunha<br></br>
