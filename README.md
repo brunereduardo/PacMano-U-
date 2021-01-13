@@ -64,5 +64,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p>MIT</p>
 
 ### Authors
-Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | Afonso Celso Penze Nunes da Cunha | Axel Silva Costa | [Carlos R Dos Santos Junior](ttps://github.com/CarlosSantosJr) | Mario Lucas Oliveira  👋🏽 
+Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | Afonso Celso Penze Nunes da Cunha | Axel Silva Costa | [Carlos R Dos Santos Junior](https://github.com/CarlosSantosJr) | Mario Lucas Oliveira  👋🏽 
 
