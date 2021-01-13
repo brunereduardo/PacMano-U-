@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/brunereduardo/PacMano_USP/blob/master/imgs/pac-man-classic.jpg)
 
-#### [English version here!](google.com)
+#### [English version here!](https://github.com/brunereduardo/PacMano_USP/blob/master/README_en.md)
 
 ## Descrição do Projeto
 <p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de <b>programação orientada a objetos</b> e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>  
