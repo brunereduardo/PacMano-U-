@@ -21,11 +21,11 @@
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
 <a href="#Pré-requisitos">Pré-requisitos</a> •	
 <a href="#License">License</a> • 
-<a href="#Author">Author</a>
+<a href="#Authors">Authors</a>
 </p>
 
 <h4 align="center"> 
-	🚧  Construído durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
+	🚧  Construído durante o ano de 2017 🚧 As bibliotecas do java para GUI mudaram e o Frontend necessita ser refeito 🚧
 </h4>
 
 ### Pré-requisitos
@@ -63,14 +63,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p>MIT</p>
 
-### Author
-Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽
-
-
-<p><b>O projeto pertence aos seguintes desenvolvedores:</b></p>
-<p>Afonso Celso Penze Nunes da Cunha<br></br>
-Axel Silva Costa<br></br>
-<a href="https://github.com/brunereduardo">Bruner Eduardo Augusto Albrecht</a><br></br>
-<a href="https://github.com/CarlosSantosJr">Carlos R Dos Santos Junior</a><br></br>
-Mario Lucas Oliveira</p>
+### Authors
+Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | Afonso Celso Penze Nunes da Cunha | Axel Silva Costa | [Carlos R Dos Santos Junior](ttps://github.com/CarlosSantosJr) | Mario Lucas Oliveira  👋🏽 
 
