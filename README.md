@@ -2,20 +2,7 @@
 #### [English version here!](google.com)
 
 ## Descrição do Projeto
-<p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de <b>programação orientada a objetos</b> e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>
-
-<p>Os Seguintes tópicos foram contruidos no programa PacMano:</p>
- <ul style="list-style-type:disc;">
-  <li>O jogo contem três fases distintas, onde cada uma é caracterizada por um cenário diferente. A grade da tela deve conter no mínimo 15 x 15 elementos no total.</li>
- <li>Pacman</li>
- <li>Fantasmas</li>
- <li>Bolinhas comuns (Pac-Dots)</li>
- <li>Bolinhas de poder (Power Pellets)</li>
- <li>Frutas</li>
- <li>Objetos do cenário</li>
- <li>A tela do jogo contem, além dos elementos listados acima, a pontuação atual do Pacman, a quantidade de vidas restantes do Pacman e a fase atual do jogo (1, 2 ou 3)</li>
- <li>Implementamos uma funcionalidade que permita que o jogo seja salvo a qualquer momento, na situação em que estiver, para que seja carregado posteriormente (Serialização). A funcionalidade de salvar pode ser chamada através de uma combinação de teclas, como por exemplo "Ctrl+s"(Key Listener Event). A funcionalidade de carregar um jogo salvo anteriormente só poderá estar disponível antes de iniciar um jogo. Pode ser também através de uma combinação de teclas ou um botão na interface gráfica.</li>
-</ul>  
+<p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos de <b>programação orientada a objetos</b> e as metodologias de desenvolvimento de software segundo esse paradigma. Os conceitos foram utilizados para implementar um jogo computacional com as mesmas características do Pac-man.</p>  
 
 <p align="center">
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
@@ -54,10 +41,35 @@ $ npm run dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- java.util.logging.Level
+- java.util.logging.Logger
+- java.io.Serializable
+- java.io.File
+- utils.Drawing
+- import java.io.IOException
+- import java.awt.image.BufferedImage
+- java.awt.Image
+- utils.Position
+- utils.Consts
+- static utils.Consts.WALK_STEP
+- java.util.Random;
+- java.util.ArrayList
+- control.GameScreen;
+- java.awt.Graphics;
+- javax.swing.ImageIcon;
+
+<p>Os Seguintes tópicos foram contruidos no programa PacMano:</p>
+ <ul style="list-style-type:disc;">
+  <li>O jogo contem três fases distintas, onde cada uma é caracterizada por um cenário diferente. A grade da tela deve conter no mínimo 15 x 15 elementos no total.</li>
+ <li>Pacman</li>
+ <li>Fantasmas</li>
+ <li>Bolinhas comuns (Pac-Dots)</li>
+ <li>Bolinhas de poder (Power Pellets)</li>
+ <li>Frutas</li>
+ <li>Objetos do cenário</li>
+ <li>A tela do jogo contem, além dos elementos listados acima, a pontuação atual do Pacman, a quantidade de vidas restantes do Pacman e a fase atual do jogo (1, 2 ou 3)</li>
+ <li>Implementamos uma funcionalidade que permita que o jogo seja salvo a qualquer momento, na situação em que estiver, para que seja carregado posteriormente (Serialização). A funcionalidade de salvar pode ser chamada através de uma combinação de teclas, como por exemplo "Ctrl+s"(Key Listener Event). A funcionalidade de carregar um jogo salvo anteriormente só poderá estar disponível antes de iniciar um jogo. Pode ser também através de uma combinação de teclas ou um botão na interface gráfica.</li>
+</ul>
 
 ### License
 
