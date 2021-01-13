@@ -1,4 +1,7 @@
 # PacMano_USP
+
+![Banner](https://github.com/brunereduardo/PacMano_USP/blob/master/imgs/pac-man-classic.jpg)
+
 #### [English version here!](google.com)
 
 ## Descrição do Projeto
