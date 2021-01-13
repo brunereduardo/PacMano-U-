@@ -22,39 +22,39 @@
 ### Running the Application 🎲
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/brunereduardo/PacMano_USP
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder on terminal/cmd
 $ cd PacMano_USP
 
-# Compile todos os arquivos .java dentro da pasta utils
+# Compile all .java files into the folder utils
 $ javac *.java
 
-# Compile todos os arquivos .java dentro da pasta elements
+# Compile all .java files into the folder elements
 $ javac *.java
 
-# Compile todos os arquivos .java dentro da pasta control
+# Compile all .java files into the folder control
 $ javac *.java
 
-# Execute a aplicação no arquivo main.class
+# Run the application on the file Main.class
 $ java PacMano_USP/control/Main.class
 ```
 ### 🚀 Technology & Topics
 
-Os seguintes elementos foram implementados com a linguagem <b>Java</b> utilizando as bibliotecas javax.swing e javax.awt, para construção do projeto:
+The following elements were implemented with the <b> Java </b> language using the javax.swing and javax.awt libraries, to build the project:
 
-- Três fases distintas(com cenários diferentes)
+- Three distinct phases (with different scenarios)
 - Pacman
-- Fantasmas
+- Ghosts
 - Pac-Dots
 - Power Pellets
-- Frutas
-- Objetos do cenário
-- Pontuação atual 
-- Quantidade de vidas restantes do Pacman
-- Fase atual do jogo 
-- Serialização do jogo
+- Fruit
+- Scenery objects
+- Current score
+- Number of Pacman's remaining lives
+- Current game stage 
+- Serialization of the game
 
 ### License
 
