@@ -44,7 +44,7 @@ $ java PacMano_USP/control/Main.class
 ```
 ### 🚀 Tecnologia & Tópicos
 
-Os seguintes elementos foram implementados com a linguagem <b>Java</b> na construção do projeto:
+Os seguintes elementos foram implementados com a linguagem <b>Java</b> utilizando as bibliotecas javax.swing e javax.awt, para construção do projeto:
 
 - Três fases distintas(com cenários diferentes)
 - Pacman
