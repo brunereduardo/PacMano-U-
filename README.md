@@ -19,58 +19,44 @@
 </h4>
 
 ### Pré-requisitos
-<p>Para compilar os programas é apenas necessário ter instalado o java e utilizar o comando javac para todas as classes que se encontram na pasta src, assim será gerado as .class das mesmas.Por fim é necessário apenas  a um Jupyter Notebook, ou Google Colab, e rodar as células para obter os resultados. Os dados para a maioria das resoluções se encontram na pasta Data de cada projeto. Para processamentos mais ágeis, um dica seria usar GPUS em vez da CPU.</p>
+<p>Para compilar os programas é apenas necessário ter instalado o java (junto com o JDK).Por fim é necessário ter acesso à um terminal, ou a uma IDE (como a IntelliJ IDEA), para  construir a aplicação</p>
 
 ### Rodando a Aplicação 🎲
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/brunereduardo/NextLevelWeek_2
+$ git clone https://github.com/brunereduardo/PacMano_USP
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd NextLevelWeek_2
+$ cd PacMano_USP
 
-# Instale as dependências
-$ npm install
+# Compile todos os arquivos .java dentro da pasta utils
+$ javac *.java
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+# Compile todos os arquivos .java dentro da pasta elements
+$ javac *.java
 
-# O servidor iniciará na porta:5500 - acesse <http://localhost:5500>
+# Compile todos os arquivos .java dentro da pasta control
+$ javac *.java
+
+# Execute a aplicação no arquivo main.class
+$ java PacMano_USP/control/Main.class
 ```
-### 🚀 Tecnologias
+### 🚀 Tecnologia & Tópicos
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Os seguintes elementos foram implementados com a linguagem <b>Java</b> na construção do projeto:
 
-- java.util.logging.Level
-- java.util.logging.Logger
-- java.io.Serializable
-- java.io.File
-- utils.Drawing
-- import java.io.IOException
-- import java.awt.image.BufferedImage
-- java.awt.Image
-- utils.Position
-- utils.Consts
-- static utils.Consts.WALK_STEP
-- java.util.Random;
-- java.util.ArrayList
-- control.GameScreen;
-- java.awt.Graphics;
-- javax.swing.ImageIcon;
-
-<p>Os Seguintes tópicos foram contruidos no programa PacMano:</p>
- <ul style="list-style-type:disc;">
-  <li>O jogo contem três fases distintas, onde cada uma é caracterizada por um cenário diferente. A grade da tela deve conter no mínimo 15 x 15 elementos no total.</li>
- <li>Pacman</li>
- <li>Fantasmas</li>
- <li>Bolinhas comuns (Pac-Dots)</li>
- <li>Bolinhas de poder (Power Pellets)</li>
- <li>Frutas</li>
- <li>Objetos do cenário</li>
- <li>A tela do jogo contem, além dos elementos listados acima, a pontuação atual do Pacman, a quantidade de vidas restantes do Pacman e a fase atual do jogo (1, 2 ou 3)</li>
- <li>Implementamos uma funcionalidade que permita que o jogo seja salvo a qualquer momento, na situação em que estiver, para que seja carregado posteriormente (Serialização). A funcionalidade de salvar pode ser chamada através de uma combinação de teclas, como por exemplo "Ctrl+s"(Key Listener Event). A funcionalidade de carregar um jogo salvo anteriormente só poderá estar disponível antes de iniciar um jogo. Pode ser também através de uma combinação de teclas ou um botão na interface gráfica.</li>
-</ul>
+- Três fases distintas(com cenários diferentes)
+- Pacman
+- Fantasmas
+- Pac-Dots
+- Power Pellets
+- Frutas
+- Objetos do cenário
+- Pontuação atual 
+- Quantidade de vidas restantes do Pacman
+- Fase atual do jogo 
+- Serialização do jogo
 
 ### License
 
