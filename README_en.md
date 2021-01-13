@@ -58,7 +58,7 @@ Os seguintes elementos foram implementados com a linguagem <b>Java</b> utilizand
 
 ### License
 
-<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo LICENSE</p>
+<p>This project is under the MIT license, for more information look for the file LICENSE</p>
 
 ### Authors
-Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | Afonso Celso Penze Nunes da Cunha | Axel Silva Costa | [Carlos R Dos Santos Junior](https://github.com/CarlosSantosJr) | Mario Lucas Oliveira  👋🏽 
+Implemented and created with ❤️ by [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | Afonso Celso Penze Nunes da Cunha | Axel Silva Costa | [Carlos R Dos Santos Junior](https://github.com/CarlosSantosJr) | Mario Lucas Oliveira  👋🏽 
