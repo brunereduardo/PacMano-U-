@@ -19,9 +19,7 @@
 </h4>
 
 ### Pré-requisitos
-
-## Instruções para Compilar o Codigo-Fonte
- Para compilar os programas é apenas necessário ter acesso a um Jupyter Notebook, ou Google Colab, e rodar as células para obter os resultados. Os dados para a maioria das resoluções se encontram na pasta Data de cada projeto. Para processamentos mais ágeis, um dica seria usar GPUS em vez da CPU.
+<p>Para compilar os programas é apenas necessário ter instalado o java e utilizar o comando javac para todas as classes que se encontram na pasta src, assim será gerado as .class das mesmas.Por fim é necessário apenas  a um Jupyter Notebook, ou Google Colab, e rodar as células para obter os resultados. Os dados para a maioria das resoluções se encontram na pasta Data de cada projeto. Para processamentos mais ágeis, um dica seria usar GPUS em vez da CPU.</p>
 
 ### Rodando a Aplicação 🎲
 
