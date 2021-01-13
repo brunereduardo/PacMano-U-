@@ -58,7 +58,7 @@ Os seguintes elementos foram implementados com a linguagem <b>Java</b> utilizand
 
 ### License
 
-<p>This project is under the MIT license, for more information look for the file LICENSE</p>
+<p>This project is under the MIT license, for more information look for the file <a href = "https://github.com/brunereduardo/PacMano_USP/blob/master/LICENSE">LICENSE.</p>
 
 ### Authors
 Implemented and created with ❤️ by [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | Afonso Celso Penze Nunes da Cunha | Axel Silva Costa | [Carlos R Dos Santos Junior](https://github.com/CarlosSantosJr) | Mario Lucas Oliveira  👋🏽 
